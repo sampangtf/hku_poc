@@ -35,6 +35,8 @@ Here we listed the major parts of our project and where they are located in the 
 4) Output to JSON in NonSQL format
   
   Location: nlp_data_science/outputJSON.ipynb
+  
+  Output file: nlp_data_science/outputAsJson.json
     
  <br> 
  
